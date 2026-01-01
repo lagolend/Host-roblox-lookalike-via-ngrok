@@ -1,6 +1,6 @@
 this is a phishing webstie prototype meant to imitate the ones used by attackers. 
 i encourage to use this code to educate on the mechanics and dangers of a phishing attack, 
-aswell as emphasize the importance of internet safety.
+aswell as emphasize the importance of internet safety with links.
 
 This cannot cause any harm due to the ngrok warning splash page.
 (unless you find a workaround, but im too stupid for that)
@@ -44,4 +44,5 @@ sure abt server but html is def safe)
 the "username" and the "password" are both avalible in the json file.
 
 Have fun ripping off little kids
+
 
